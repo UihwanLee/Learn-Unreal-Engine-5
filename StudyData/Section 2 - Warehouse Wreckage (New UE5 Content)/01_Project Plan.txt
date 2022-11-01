@@ -1,0 +1,8 @@
+Project Plan
+
+● Playing with Physics
+● Spawing projectiles
+● Aiming the projecttile
+● Building a level
+● Limiting ammo
+● Reloading levels

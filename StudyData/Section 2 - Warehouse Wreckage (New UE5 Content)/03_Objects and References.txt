@@ -1,0 +1,10 @@
+
+Blueprint Gloassary(블루프린트 용어사전)
+
+● Objects - Collections of data and functionality
+● Actors - Object that can go in a level
+● Component - Objects that can go on an actor
+● Reference - Where to find an object
+● Data Pin - The input or output data for a node / What to run the node
+● Execution Pins - When to run this node / When to run it
+

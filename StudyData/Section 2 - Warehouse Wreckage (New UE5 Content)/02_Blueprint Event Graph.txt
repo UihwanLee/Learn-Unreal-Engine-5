@@ -1,0 +1,11 @@
+
+Blueprint Glossary(블루프린트 용어 사전)
+
+● Event Graph - The canvas for our Blueprint
+● Node - Premade functionality
+● String - Programmer speak for text
+● Event - A "when" node
+● Pin - Sockets we can connect up (노드끼리 연결할 수 있는 핀)
+● Input Pin - When to run this node
+● Output Pin - What to do afters
+● Connection - Wires between pins
