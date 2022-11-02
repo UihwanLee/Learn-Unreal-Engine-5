@@ -1,0 +1,4 @@
+Force and Impulse
+
+ Force = Mass * Acceleration
+ Impulse = Mass * Velcoity Change

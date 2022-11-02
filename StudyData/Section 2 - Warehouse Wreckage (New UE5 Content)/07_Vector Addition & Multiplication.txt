@@ -1,0 +1,13 @@
+What Are Vectors?
+
+● Mathematically
+   ○ Direction
+   ○ Size (Magnitude)
+● Programmatically
+   ○ 3 Floats
+   ○ X, Y, Z
+
+Vectors
+ pos + move = newPos
+ x = pos.x + move.x
+ y = pos.y + move.y

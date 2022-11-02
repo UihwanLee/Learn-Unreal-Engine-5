@@ -1,0 +1,31 @@
+Data Types
+
+● How is it represented in binary?
+● What can we do with it?
+● The "shape" of data
+   ○ Can't get a square peg in a round hole
+
+Integers, Floats, Strings, Bools
+
+
+Blueprint Gloassary(블루프린트 용어사전)
+
+● Struct - An object that is usually small
+● Data type - The "shape" of your data
+● Objects - Collections of data and functionality
+
+Objects/Structs
+ - Struct : have same shape of data, but don't have to have the same contents of data
+ - Object : nom compatible tpyes, have differnet values stored in them
+
+Structs We've Seen
+● Vectors
+● Rotator
+● Transforms
+
+Objects We've Seen
+● Actors
+   ○ Cube
+   ○ BP_Projectile
+● Components
+   ○ StaticMeshComponent

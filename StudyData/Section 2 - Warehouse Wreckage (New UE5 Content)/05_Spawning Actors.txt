@@ -1,0 +1,9 @@
+
+Blueprint Gloassary(블루프린트 용어사전)
+
+● Spawning - Creating an object while playing
+● Transform - Location, rotation and scale
+● Return pin - Ouput of a node
+● Reference - Where to find an object
+● Data Pin - The input or output data for a node / What to run the node
+● Execution Pins - When to run this node / When to run it
