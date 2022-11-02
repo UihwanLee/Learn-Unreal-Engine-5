@@ -1,0 +1,23 @@
+What Is A Side Effect?
+
+● When a function has an observable effect
+● E.g
+   ○ Print String
+   ○ Add Impulse
+   ○ Set Ammo
+
+What Is A Pure Function?
+
+● A function with no side effects
+● Only return values
+● E.g
+   ○ Get Ammo
+   ○ Get Actor Forward Vector
+   ○ Multiply, Minus, Greater
+
+Glossary (용어사전)
+
+● Side effect - Observable offect of a function
+● Pure function - Functions with no side effects
+
+

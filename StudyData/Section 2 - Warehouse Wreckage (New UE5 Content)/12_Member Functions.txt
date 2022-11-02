@@ -1,0 +1,9 @@
+Glossary (용어사전)
+
+● Object Oriented Programming(객체지향 프로그래밍) 
+    - Functions live with the data they mainpulate
+● Member function - A function on a class, always called on an particular instance
+● Self - A node available in member functions, always points to the current instance
+
+
+

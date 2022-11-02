@@ -1,5 +1,5 @@
 
-Blueprint Glossary(블루프린트 용어 사전)
+Glossary(용어 사전)
 
 ● Event Graph - The canvas for our Blueprint
 ● Node - Premade functionality

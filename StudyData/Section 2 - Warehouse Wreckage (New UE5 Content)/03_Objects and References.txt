@@ -1,5 +1,5 @@
 
-Blueprint Gloassary(블루프린트 용어사전)
+Gloassary(용어사전)
 
 ● Objects - Collections of data and functionality
 ● Actors - Object that can go in a level

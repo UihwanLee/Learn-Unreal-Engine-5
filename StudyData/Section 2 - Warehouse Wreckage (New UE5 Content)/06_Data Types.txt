@@ -8,7 +8,7 @@ Data Types
 Integers, Floats, Strings, Bools
 
 
-Blueprint Gloassary(블루프린트 용어사전)
+Gloassary(용어사전)
 
 ● Struct - An object that is usually small
 ● Data type - The "shape" of your data

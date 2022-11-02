@@ -1,0 +1,15 @@
+Branch Nodes
+
+● Branches let us check if something is true or not and then do something based upon the result
+
+What Is A Bool?
+
+● Bools are tpyes that can store one of two values - true or false
+● They are often used with if statements to decide whether something happens or not
+● Certain nodes return bools
+
+Gloassary(용어사전)
+
+● Branch - Do something or don't, based on a bool
+● Booleans - A yes or no data type
+● Comparison - Less than, Greater tha, Equal, etc

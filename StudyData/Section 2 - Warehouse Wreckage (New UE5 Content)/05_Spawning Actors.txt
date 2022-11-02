@@ -1,5 +1,5 @@
 
-Blueprint Gloassary(블루프린트 용어사전)
+Gloassary(용어사전)
 
 ● Spawning - Creating an object while playing
 ● Transform - Location, rotation and scale

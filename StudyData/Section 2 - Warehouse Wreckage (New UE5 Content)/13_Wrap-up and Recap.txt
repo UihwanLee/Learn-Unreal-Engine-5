@@ -1,0 +1,9 @@
+What We've Learnt
+
+● Blueprint basics: nodes, pins
+● Programming basics: variables, strings, references, functions
+● Unreal basics: maps, actors, components, transforms, vectors
+● Object Oriented basics: objects/structs, classes, member functions
+
+
+

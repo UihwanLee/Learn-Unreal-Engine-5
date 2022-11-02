@@ -1,0 +1,15 @@
+What Are Functions?
+
+● Functions execute blocks of blueprint that makes our game do things
+● Many node provided are functions
+● But we can create our own too
+● They allow us to stay organised
+● And reuse blocks of code
+
+Good Naming
+● Code is communication
+● Measure of code quality = WTHs / Minute
+● Functions should be verbs
+● Talk to somebody else!
+
+

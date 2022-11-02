@@ -1,0 +1,6 @@
+Variables Are Like Boxes
+
+● Variables help us store, manipulate and refer to information 
+● Each variable has a NAME
+● Each variable contains DATA
+● Each variable is of a paricular TYPE
