@@ -1,0 +1,11 @@
+
+Glossary (용어사전)
+
+● Expression - Fragment of code that produces a value.
+● Statement - An action to be performed.
+
+Expressions
+
+● MyVector
+● LocalVector.Z + 100
+● GetActorLoaction()

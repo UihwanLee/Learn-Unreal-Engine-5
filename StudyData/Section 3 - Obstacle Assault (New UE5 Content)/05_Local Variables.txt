@@ -1,0 +1,4 @@
+Scope
+
+● How long does the variable live?
+● Generally between {} braces

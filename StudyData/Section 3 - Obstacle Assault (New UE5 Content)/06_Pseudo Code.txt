@@ -1,0 +1,5 @@
+
+Glossary (용어사전)
+
+● Pseudocode - Plain language description of the steps in an algorithm.
+● Comments - Code that is ignored by the compiler.

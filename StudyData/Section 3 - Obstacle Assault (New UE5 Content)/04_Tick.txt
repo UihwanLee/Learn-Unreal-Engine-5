@@ -1,0 +1,11 @@
+Game Loop
+
+1. Process Input
+2. Update game state
+3. Render to display
+
+Glossary (용어사전)
+
+● Frame - A single picture in a video
+● Frame rate - Hoew many frames per second (FPS)
+● Tick - Called every frame

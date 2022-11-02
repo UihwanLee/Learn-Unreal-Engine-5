@@ -1,0 +1,7 @@
+
+Glossary (용어사전)
+
+● Constructor - Makes a new struct or class value
+● Operator - Symbols that do something
+   ○ e.g. +, -, =, *, /
+● Dot Operator - Gets something from within a struct or class

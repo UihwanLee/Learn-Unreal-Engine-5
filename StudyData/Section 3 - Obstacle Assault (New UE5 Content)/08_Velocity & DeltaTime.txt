@@ -1,0 +1,7 @@
+Using DeltaTime
+
+● Using DeltaTime Unreal can tell us how long each frame took to excute
+● When we mulitply something by DeltaTime it makes our game "frame rate independent".
+● i.e. The game behaves the same on fast and slow computers
+
+

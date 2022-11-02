@@ -1,0 +1,7 @@
+
+Glossary (용어사전)
+
+● Source Code - Human readable code (like C++)
+● Binary Executable - Machine readable code
+● Compiler - Translates from Human to Machine
+● Source Code Editor - Makes writing code fun
