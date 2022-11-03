@@ -1,0 +1,4 @@
+
+Glossary (용어사전)
+
+● Scope Resolution Operator - (::) Looks inside a class.

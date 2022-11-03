@@ -1,0 +1,5 @@
+
+Glossary (용어사전)
+
+● Game Mode - An Actor that controls the "rules".
+   e.g. Who should spawn where
