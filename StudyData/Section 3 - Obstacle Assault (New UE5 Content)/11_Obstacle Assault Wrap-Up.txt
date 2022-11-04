@@ -1,0 +1,9 @@
+What We've Learnt
+
+● The structure of C++ syntax
+● How to create classes in C++
+● Member variables and functions
+● Blueprint child classes of C++
+● UPROPERTY and UE_LOG
+● FString, FVector, FRotator
+● GameMode and Character classes
