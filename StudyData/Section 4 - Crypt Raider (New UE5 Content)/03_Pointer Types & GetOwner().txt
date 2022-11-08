@@ -1,0 +1,5 @@
+Variable Addresses
+
+● Variables require memory
+● Memory location
+● Address

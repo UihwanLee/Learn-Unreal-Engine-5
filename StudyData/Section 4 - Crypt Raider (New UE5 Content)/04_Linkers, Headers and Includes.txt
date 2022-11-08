@@ -1,0 +1,14 @@
+Compilation Steps
+
+Your code -> Unreal Header Tool
+
+<Standard C++ Compilation>
+-> Preprocessor -> Compiler -> Linker
+
+-> Executable
+
+Why do we include "Mover.h"
+
+● Comment out the #include line
+● Recompile
+● What error do you get?
