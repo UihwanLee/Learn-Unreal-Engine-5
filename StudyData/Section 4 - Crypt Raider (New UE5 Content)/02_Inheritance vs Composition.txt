@@ -1,0 +1,5 @@
+
+Glossary (용어사전)
+
+● Inheritance - A child class automatically has all the functionality of the parent. The child "is a" parent.
+● Composition - Class A has an instance of Class B, it can choose to use it's functionality but doesn't have to. Class A "has a" Class B.

@@ -1,0 +1,19 @@
+Action Plan
+
+1. Create out level design (including lighting)
+2. Make a "Mover" componenet for our doors
+3. Make a "Grabber" component for the player
+4. Call the Grabber functionality from Blueprint
+5. Create a "Pressure Plate" component
+6. Tweak and polish.
+
+What We Will Learn
+
+● Pointers and References
+● Actor Components and Scene Components
+● Including header files
+● Lighting with Lumen
+● Modular level design
+● Line Tracing and Collisions
+● While, For Loops and Arrays
+● Calling C++ functions from Blueprint
