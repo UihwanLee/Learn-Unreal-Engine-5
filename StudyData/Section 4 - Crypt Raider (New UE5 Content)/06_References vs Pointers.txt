@@ -1,0 +1,20 @@
+Comparing Pointers to References
+                                 Pointers                    References
+What is stored                       Memory address
+Can be re-assigned       Yes                          No
+(to another address)
+Can be null                  Yes(use nullptr)          No, must be initialised
+Accessing contents       *ActorPtr                   ActorRef
+Accessing address         ActorPtr                   &ActorRef
+Changing the address    ActorPtr = &Actor      Not allowed
+Changing the value       *ActorPtr = Actor       ActorRef = Actor
+
+The & and * Symbols in Context
+
+Context             When Using                               When Declaring
+Code          CopyOfActor = *ActorPtr;                 UActor* ActorPtr;
+Examples      ActorAddress = &Actor;                  UActor &ActorRef;
+Symbol           *                 &                                *                       &
+Syntax        *ActorPtr       &Actor/&ActorRef       UActor*                UActor&
+Meaning    Contents at     Address of Actor        Pointer to            Reference to 
+                 ActorPtr         of ActorRef                UActor                  UActor

@@ -1,0 +1,50 @@
+01. Line Trace
+
+Start ● -------- Triangle ----- Square ----- Rect -------- ● End
+
+What we might do is take a starting point and an ending point and essentially trace a line through from the start to the end and 
+see what that line overlaps with.
+
+So when you do line trace, you essentially can get back either a result, which is all of the objects 
+that the line intersected with on its path to the end.
+
+Or you can just get the first object that it hit and some optimizations that mean that if it hits an objects, it actually doesn't do the
+entire trace at all.
+
+So this is how we often do things like shooting guns in first person shooters or even like we're doing here, picking up objects.
+
+There's an alternative to the line trace, however, because the line trace can mean that we have to be extremely accurate.
+If we miss an object by a few millimeters like this sphere, it won't picked up.
+
+02. Shape Trace
+
+         -----------------------------------------------
+Start ●          Triangle      Square      Rect          ● End
+         -----------------------------------------------
+
+So the alternative is a shape trace and sometimes more specifically known as a sphere trace.
+
+If that's the shape we're using or more generally it's actually known in code as a gemoetry trace.
+
+What we do here is we take a sphere starting at our starting point, and as we as name would suggest, we trace it or we sweep it,
+actually, we sweep the sphere through the world to the end point.
+
+And if it intersected with anything along the way, then that is something that the trace will hit.
+
+So for example, we will overlap here with this triangle and the sphere because we've expanded the radius of the search space.
+
+
+
+Now there's one more additional thing that we can add to our traces to make them ignore certain shapes in the scene.
+
+Because, for example, we know that we can't grab hold of this wall and maybe we want to able to grab something through the bars,
+even though we might be hitting the bars as we do so.
+
+03. Trace Channel
+
+         ------------------------------------------------
+Start ●          Triangle      Square      (Rect)          ● End
+         ------------------------------------------------
+
+The way to do that is using something calle the Trace Channel, and this essentially creates a list of objects that can respond to the Trace
+and others will that might want to ignore it entirely.
