@@ -1,0 +1,10 @@
+What We've Learnt
+
+● Pointers and Referneces
+● Actor Components and Scene Components
+● Including header files
+● Lighting with Lumen
+● Modular level design
+● Line Tracing and Collisions
+● While, For Loops and Arrays
+● Calling C++ functions from Blueprint

@@ -1,0 +1,5 @@
+
+Glossary (용어사전)
+
+● Dependency Injection - "I need another object but can't find it myself"
+● Composition - Class A has an instance of Class B, it can choose to use it's functionality but doesn't have to. Class A "has a" Class B.
