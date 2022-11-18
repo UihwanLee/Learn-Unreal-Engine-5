@@ -6,7 +6,9 @@
   블루프린트와 C++ 차이에 대해 알아본다.
 ```
 
-> ## 블루프린트 vs C++
+
+<br>
+> ### 블루프린트 vs C++
 
 <details>
   <summary><span style="border-bottom:0.05em solid"><strong>블루프린트 장점</strong></span></summary>
