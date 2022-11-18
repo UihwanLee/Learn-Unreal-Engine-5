@@ -19,5 +19,5 @@
 
 > 👉 공부 내용
 
-- [1️⃣ **Section 1 - Intro_Setup**](StudyData/Section 1 - Intro_Setup/Intro_Setup.md)
+- [1️⃣ **Section 1 - Intro_Setup**](StudyData/Section_1-Intro_Setup/Intro_Setup.md)
 
