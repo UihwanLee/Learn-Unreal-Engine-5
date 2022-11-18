@@ -18,6 +18,8 @@
      <li>Tailor-made (맞춤형)</li>
      <li>Designer/artist friendly (디자이너/아티스트에게 친절)</li>
   </ul>
+  <hr>
+</details>
   
   
 <details>
@@ -30,3 +32,5 @@
      <li>Access all areas (모든 영역에 액세스 가능)</li>
      <li>Good for bigger projects (큰 프로젝트에 좋음)</li>
   </ul>
+  <hr>
+</details>
