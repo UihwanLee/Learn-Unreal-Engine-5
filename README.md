@@ -19,5 +19,8 @@
 
 > 👉 공부 내용
 
-- [1️⃣ **Section 1 - Intro_Setup**](StudyData/Section_1-Intro_Setup/Intro_Setup.md)
+- [1️⃣ **Section 1 - Intro_Setup**](/StudyData/Section_1-Intro_Setup/Intro_Setup.md)
+- [2️⃣ **Section 2 - Warehouse Wreckage**](/StudyData/Section_2-Warehouse_Wreckage/Warehouse_Wreckage.md)
+- [3️⃣ **Section 3 - Obstacle Assault**](/StudyData/Section_3-Obstacle_Assault/Obstacle_Assault.md)
+- [4️⃣ **Section 4 - Crypt Raider**](/StudyData/Section_4-Crypt_Raider/Crypt_Raider.md)
 
