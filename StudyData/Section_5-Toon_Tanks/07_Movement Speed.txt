@@ -1,0 +1,20 @@
+Movement Speed
+
+● Speed variable
+● Take frame rate into account
+   ○ Delta Time
+
+Using DeltaTime
+
+DeltaTime 0.1s <- Scale movement by 0.1
+0 ---------------------------> Time
+
+● CPU usage varies
+● Thus DeltaTime varies
+● More frames/second, more function calls!
+
+Getting DeltaTime
+
+UGameplayStatics::GetWorldDeltaSeconds( this <- World Context Object )
+
+

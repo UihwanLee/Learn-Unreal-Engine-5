@@ -1,0 +1,14 @@
+Local vs World Space
+
+● Actors have their own local direction
+● Not the same as the world direction!
+
+Moving in Local Space
+
+AddActorLocalOffset
+
+● Moves the Actor in a local direction
+● Performs a single movement (we'll call it every frame)
+● We can use the X axis (the local forward vector)
+
+
