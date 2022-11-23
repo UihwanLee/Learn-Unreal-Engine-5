@@ -1,0 +1,7 @@
+Constructing Components
+
+CreateDefaultSuboject<>()
+ ● Template function
+ ● Adapts to the type chosen
+ ● Pass in the type to construct
+

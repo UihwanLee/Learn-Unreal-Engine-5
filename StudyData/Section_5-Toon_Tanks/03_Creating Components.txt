@@ -1,0 +1,15 @@
+Components
+
+USceneComponent
+● Has a transform
+● Supports attachment
+● No visual representation
+
+UCapsuleComponent
+● Handles collision
+
+UStaticMeshComponent
+● Visual representation
+
+Root Component
+● Type: USceneComponent

@@ -1,0 +1,9 @@
+Summary
+
+● Include only what you use in .cpp
+● We should include as little as possible in .h
+   ○ We don't need the header to declare a pointer
+   ○ We do need the header to construct an object
+   ○ We do need the header to access members
+   ○ We do need the header for inheritance
+

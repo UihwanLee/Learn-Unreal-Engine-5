@@ -1,0 +1,13 @@
+Choosing a Class
+
+Actor
+● Can be placed in the world
+● Can have a visual representation (Mesh, etc.)
+
+Pawn
+● Can be possessed by a Controller
+● Handles movement input
+
+Character
+● Has Character specific stuff (Character Movement, Component, etc.)
+● Movement modes (flying)
