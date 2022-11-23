@@ -23,20 +23,17 @@ private:
 	// 항상 헤더파일에 선언하는 것 대신 class 키워드 써서 필요할때만 불러오는 방법 (Forward Declaration)
 	// 다른 헤더파일에서 불러올 수 있기 때문에 무조건 헤더파일에 헤더파일을 불러오는 방법은 옳지 않다.
 	// 다만 디테일하게 수정하려는 접근이 있을 시 헤더파일이 필요하다. -> cpp에 작성하는 것이 효율적
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	class UCapsuleComponent* CapsuleComp;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent* BaseMesh;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	UStaticMeshComponent* TurretMesh;
-	UPROPERTY()
+	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	USceneComponent* ProjectileSpawnPoint;
 
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
-
-	// Called to bind functionality to input
-	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
 };
