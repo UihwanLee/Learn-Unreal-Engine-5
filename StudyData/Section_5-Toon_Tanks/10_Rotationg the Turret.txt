@@ -1,0 +1,15 @@
+Rotate the Turret
+
+● Find the direction fot the turret
+● Set the turret mesh rotation
+
+Get Look At Rotation
+
+TurretLocation ----(ToTarget)----> TraceHitLoaction
+
+ToTarget = TraceHitLocation - TurretLocation
+
+FVector::Rotation -> ToTarget.Rotation()
+
+
+
