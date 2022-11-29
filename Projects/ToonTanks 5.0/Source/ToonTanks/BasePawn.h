@@ -16,8 +16,9 @@ public:
 	ABasePawn();
 
 protected:
-	// Called when the game starts or when spawned
-	virtual void BeginPlay() override;
+
+	void RotateTurret(FVector LookAtTarget);
+
 
 private:
 	// 항상 헤더파일에 선언하는 것 대신 class 키워드 써서 필요할때만 불러오는 방법 (Forward Declaration)
@@ -31,9 +32,5 @@ private:
 	UStaticMeshComponent* TurretMesh;
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = "Components", meta = (AllowPrivateAccess = "true"))
 	USceneComponent* ProjectileSpawnPoint;
-
-public:	
-	// Called every frame
-	virtual void Tick(float DeltaTime) override;
 
 };
