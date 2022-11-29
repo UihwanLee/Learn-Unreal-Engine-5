@@ -1,0 +1,24 @@
+Hit Results
+
+Start(FVector) ---------(Hit Event)[|||||||||]------------End(FVector)
+
+● Line Trace
+● Trace Hit
+● FHitResult
+   ○ Hit Event
+   ○ Hit Location
+   ○ Hit Actor
+
+ECollisionChannel::ECC_Visibility
+● Trace using a Collision Channel
+● ECC_Visibility
+● Objects set to Block the Visibility Channel
+
+Debug Sphere
+
+DrawDebugSphere
+● Great for showing a location in space
+● Used when debugging (not in the actual game)
+
+
+

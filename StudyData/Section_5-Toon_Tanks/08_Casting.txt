@@ -1,0 +1,13 @@
+The Controller
+
+● Access functions on the Controller 
+● Casting
+
+Casting 
+
+Cast<>() - Cast<type>(pointer)
+● Template function
+● Adapts to the type chosen
+● Pass in the type to cast to
+
+
