@@ -1,0 +1,33 @@
+Spawning the Projectile
+
+● Spawn from C++
+● Based on the Blueprintclass
+
+How do we spawn an object in C++, which is based on a blueprint?
+
+TSubclassOf
+
+TSubclassOf<> TSubclassOf<Type>
+● Template
+● Requires a type parameter
+● Stores a UClass
+   ○ Subclass of the chosen type
+   ○ Even Blueprints based on the type
+
+Spawning Actors
+
+UWorld::SpawnActor
+
+SpawnActor<>() -> SpawnActor<Type>() <- UClass, Location, Rotation
+● SpawnActor is another template function and it's desinged to create new objects similar to create defualt sub object
+● But create default sub object is designed for creating components and we can only use it in the constructor for a paricular class 
+    spawn actor can be called at runtime while the game is running and it can create actors.
+
+SpawnActor<AProjectile>(ProjectileClass, Loc, Rot)
+   ○ UClass* : Class what represents the type to spawn. Actual type of the object that gets spawned. This could be a blueprint class.
+   ○ FVector : The location is an F vector specifying where to spawn the object and the rotation will specify its rotation.
+   ○ FRotator
+
+
+
+

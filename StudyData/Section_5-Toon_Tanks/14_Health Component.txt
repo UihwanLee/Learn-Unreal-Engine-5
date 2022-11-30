@@ -1,0 +1,22 @@
+Hit Events
+
+UActorComponent   ● No transform
+           |                 ● No attachment
+           |                 ● No trasform
+           |
+USceneComponent  ● Has tranform
+                            ● Supports attachment
+                                                                 
+OnTakeAnyDamage Delegate
+
+      (Delegate)                    (Callback)DamageTake()
+OnTakeAnyDamge  -- (Bind) -- UHealthComponent
+
+UGameplayStatics::ApplyDamage
+ (Generates the damage event)
+
+1. Create a callback
+2. Bind it to the delegate
+3. Generate damage event
+
+

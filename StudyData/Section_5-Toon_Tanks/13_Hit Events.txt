@@ -1,0 +1,27 @@
+Hit Events
+
+UprimitiveComponent ● Hit Events
+           |
+UStaticMeshComponent
+
+[||||](Hit Event)[||||]
+● Hit Component
+● Hit Actor
+● FHitResult
+
+(UStaticMeshComponent*)                            FComponentHitSignature
+   ProjectileMesh->OnComponentHit                   OnComponentHit
+                                  |
+                    Hit Event (Multicast Delegate)
+                   ● Can have multiple functions
+                   ● Invocation list (list of functions to call)
+                   ● Broadcast when something happens
+                   ● All bound functions are called in response to the broadcast
+
+(UStaticMeshComponent*)                            
+   ProjectileMesh->OnComponentHit.AddDynamic(this(User Object), &AProjectile::OnHit(Callback))
+                                                                 
+
+
+
+
