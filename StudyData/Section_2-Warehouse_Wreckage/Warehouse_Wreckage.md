@@ -7,8 +7,9 @@
 ```
 
 
+
 <details>
-  <summary><span style="border-bottom:0.05em solid"><strong>용어정리</strong></span></summary>
+  <summary><span style="border-bottom:0.05em solid"><strong>Glossary(용어정리)</strong></span></summary>
 <hr>
   <ul>
      <li>Event Graph - 블루프린트 캔버스</li>
