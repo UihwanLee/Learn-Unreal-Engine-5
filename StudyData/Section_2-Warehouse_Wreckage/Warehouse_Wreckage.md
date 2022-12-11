@@ -7,6 +7,9 @@
 ```
 
 
+![Section2-Warehouse Wreckage_01](https://user-images.githubusercontent.com/36596037/206894291-ee7dec9a-be8e-427e-8f32-ec5b8b8ae384.png)
+
+
 
 <details>
   <summary><span style="border-bottom:0.05em solid"><strong>Glossary(용어정리)</strong></span></summary>
