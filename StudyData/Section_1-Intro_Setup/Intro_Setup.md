@@ -11,8 +11,8 @@
 
 > ### 블루프린트 vs C++
 
-<details>
-  <summary><span style="border-bottom:0.05em solid"><strong>블루프린트 장점</strong></span></summary>
+
+<summary><span style="border-bottom:0.05em solid"><strong>블루프린트 장점</strong></span></summary>
 <hr>
   <ul>
      <li>Quick to change (빠르게 변경 가능)</li>
@@ -21,8 +21,7 @@
      <li>Tailor-made (맞춤형)</li>
      <li>Designer/artist friendly (디자이너/아티스트에게 친절)</li>
   </ul>
-  <hr>
-</details>
+ <hr>
   
   
 <details>
