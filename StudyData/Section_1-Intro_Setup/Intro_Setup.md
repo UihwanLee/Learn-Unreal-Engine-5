@@ -24,7 +24,7 @@
  <hr>
   
   
-<details>
+
   <summary><span style="border-bottom:0.05em solid"><strong>C++ 장점</strong></span></summary>
 <hr>
   <ul>
@@ -35,4 +35,4 @@
      <li>Good for bigger projects (큰 프로젝트에 좋음)</li>
   </ul>
   <hr>
-</details>
+
